@@ -1,0 +1,28 @@
+#container {
+    height: 300px;
+    width: 500px;
+    background-color: rgb(123, 11, 11);
+    position: relative;
+}
+
+.box {
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+.first {
+    height: 150px;
+    width: 500px;
+    position: absolute;
+    top: 70px;
+}
+
+#circle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 200px;
+}
