@@ -1,0 +1,23 @@
+h1 {
+    background-color: orange;
+    height: 300px;
+    width: 300px;
+    /* border-width: 15px;
+    border-style: solid;
+    border-color: green; */
+    border: 10px solid green;
+    padding: 10px;
+
+    margin: 20px;
+}
+
+h2 {
+    background-color: pink;
+    border: 2px solid blue;
+}
+
+p {
+    background-color: aqua;
+    border: 5px solid yellow;
+    margin: 15px;
+}
