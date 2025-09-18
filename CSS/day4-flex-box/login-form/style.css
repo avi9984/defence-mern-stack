@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-top: 60px;
+}
+
+body {
+    background-color: rgb(148, 185, 185);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 600px;
+    height: 400px;
+    background-color: white;
+}
